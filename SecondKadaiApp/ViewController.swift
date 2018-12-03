@@ -10,8 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
     
+
     @IBOutlet weak var name: UITextField!
-    @IBOutlet weak var display: UIButton!
+    @IBOutlet weak var signup: UIButton!
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
